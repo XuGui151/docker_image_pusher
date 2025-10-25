@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nyanmisaka/jellyfin:latest
 nyanmisaka/jellyfin:250503-amd64
+qdtoday/qd:dev
